@@ -1,0 +1,16 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "proyecto ejemplo de inicio en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "muckacid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "morgana": "^2.0.0"
+  }
+}
